@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import Navbar from './components/Navbar';
-import CountriesList from './components/CountriesList';
+import {CountriesList} from './components/CountriesList';
 import './App.css';
 
 function App() {
